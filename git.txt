@@ -16,6 +16,8 @@ git clone https://github.com/techtrainer20/remote.git
 
 git status (red-local ; green-cloud )
 
+git log 
+
 git add .  // cloud
 
 
